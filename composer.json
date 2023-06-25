@@ -20,5 +20,9 @@
   ],
   "require-dev": {
     "phpunit/phpunit": "^10.2"
+  },
+  "require": {
+    "giggsey/libphonenumber-for-php": "^8.13",
+    "illuminate/validation": "^10.13"
   }
 }
