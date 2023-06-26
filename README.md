@@ -38,7 +38,7 @@ if (ValidEmail::validate('email', $email)) {
     echo 'Valid email address.';
 } else {
     echo 'Invalid email address.';
-}
+} 
 ```
 
 ### Phone Number Validation
